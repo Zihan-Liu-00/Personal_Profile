@@ -1,5 +1,5 @@
 ## Zihan Liu
-#### Ph.D. Candidate, Westlake University & Zhejiang University
+#### Ph.D. Student, Westlake University & Zhejiang University
 #### Supervised by [Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=EN)
 #### Email: liuzihan@westlake.edu.cn
 
