@@ -2,7 +2,7 @@
 #### Ph.D. Student, Westlake University & Zhejiang University
 #### Supervised by [Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=EN)
 #### Email: liuzihan@westlake.edu.cn
-#### [Researchgate](https://www.researchgate.net/profile/Zihan-Liu-2/publications)    &nbsp;    &nbsp;    &nbsp;    &nbsp;    &nbsp; [Google Scholar](https://scholar.google.com/citations?hl=EN&user=OgIdbfAAAAAJ)
+#### [Researchgate](https://www.researchgate.net/profile/Zihan-Liu-2/publications)    &nbsp; &nbsp; &nbsp; [Google Scholar](https://scholar.google.com/citations?hl=EN&user=OgIdbfAAAAAJ)
 
 ## Research Interest
 #### Graph Neural Networks; Graph Adversarial Attack and Defence; Graph Augmentation
