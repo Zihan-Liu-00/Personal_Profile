@@ -5,9 +5,9 @@
 #### [Researchgate](https://www.researchgate.net/profile/Zihan-Liu-2/publications)    &nbsp; &nbsp; &nbsp; [Google Scholar](https://scholar.google.com/citations?hl=EN&user=OgIdbfAAAAAJ)
 
 ## Education
-#### 2014-2016 &nbsp BEng in Tianjin University
-#### 2016-2019 &nbsp BEng&MEng in University of Edinburgh
-#### 2020-2024 &nbsp Ph.D. in Westlake University & Zhejiang University
+#### 2014-2016 &nbsp; BEng in Tianjin University
+#### 2016-2019 &nbsp; BEng & MEng in University of Edinburgh
+#### 2020-2024 &nbsp; Ph.D. in Westlake University & Zhejiang University
 
 ## Research Interest
 #### Graph Neural Networks; Graph Adversarial Attack and Defence; Graph Augmentation
