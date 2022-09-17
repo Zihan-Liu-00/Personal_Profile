@@ -11,7 +11,7 @@
 #### 2020-2024 &nbsp; PhD student in Zhejiang University & Westlake University
 
 ## Research Interest
-#### Graph Neural Networks; Graph Adversarial Attack and Defence; Graph Adversarial Training
+#### Graph Neural Networks; Adversarial Attack and Defence on Graph; Adversarial Training on Graph
 
 ## Publications
 #### NeurIPS 2022 - Towards Reasonable Budget Allocation in Untargeted Graph Structure Attacks via Gradient Debias.
