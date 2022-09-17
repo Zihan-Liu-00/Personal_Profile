@@ -3,16 +3,16 @@
 #### Zhejiang University & Westlake University
 #### Supervisor: [Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=EN)
 #### Email Address: liuzihan@westlake.edu.cn
-#### Other links: &nbsp; &nbsp; [Researchgate](https://www.researchgate.net/profile/Zihan-Liu-2/publications)    &nbsp; &nbsp; [Google Scholar](https://scholar.google.com/citations?hl=EN&user=OgIdbfAAAAAJ)
-
+#### Other Pages: &nbsp; &nbsp; [Researchgate](https://www.researchgate.net/profile/Zihan-Liu-2/publications)    &nbsp; &nbsp; [Google Scholar](https://scholar.google.com/citations?hl=EN&user=OgIdbfAAAAAJ)
+****
 ## Education
 #### 2014-2016 &nbsp;&nbsp; BEng in Tianjin University
 #### 2016-2019 &nbsp;&nbsp; BEng & MEng in the University of Edinburgh
 #### 2020-2024 &nbsp; PhD student in Zhejiang University & Westlake University
-
+****
 ## Research Interest
 #### Graph Neural Networks; Adversarial Attack and Defence on Graph; Adversarial Training on Graph
-
+****
 ## Publications
 #### NeurIPS 2022 - Towards Reasonable Budget Allocation in Untargeted Graph Structure Attacks via Gradient Debias.
 #### WSDM 2022 - Surrogate Representation Learning with Isometric Mapping for Gray-box Graph Adversarial Attacks [[Paper]](https://dl.acm.org/doi/10.1145/3488560.3498481)
