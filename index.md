@@ -14,9 +14,9 @@
 #### Graph Neural Networks; Adversarial Attack and Defence on Graph; Adversarial Training on Graph
 ****
 ## Publications
-#### NeurIPS 2022 - Towards Reasonable Budget Allocation in Untargeted Graph Structure Attacks via Gradient Debias.
-#### WSDM 2022 - Surrogate Representation Learning with Isometric Mapping for Gray-box Graph Adversarial Attacks [[Paper]](https://dl.acm.org/doi/10.1145/3488560.3498481)
-#### CIKM 2022 - Are Gradients on Graph Structure Reliable in Gray-box Attacks?
+#### NeurIPS 2022 - *Towards Reasonable Budget Allocation in Untargeted Graph Structure Attacks via Gradient Debias*
+#### WSDM 2022 - *Surrogate Representation Learning with Isometric Mapping for Gray-box Graph Adversarial Attacks* [[Paper]](https://dl.acm.org/doi/10.1145/3488560.3498481)
+#### CIKM 2022 - *Are Gradients on Graph Structure Reliable in Gray-box Attacks?*
 
 
 <!-- ## Welcome to GitHub Pages
