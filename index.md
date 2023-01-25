@@ -6,17 +6,26 @@
 #### Other Pages: &nbsp; &nbsp; [Researchgate](https://www.researchgate.net/profile/Zihan-Liu-2/publications)    &nbsp; &nbsp; [Google Scholar](https://scholar.google.com/citations?hl=EN&user=OgIdbfAAAAAJ)
 ****
 ## Education
-#### 2014-2016 &nbsp;&nbsp; BEng in Tianjin University
-#### 2016-2019 &nbsp;&nbsp; BEng & MEng in the University of Edinburgh
-#### 2020-2024 &nbsp; PhD student in Zhejiang University & Westlake University
+#### 2014-2016 &nbsp;&nbsp; BEng,&nbsp; Tianjin University
+#### 2016-2019 &nbsp;&nbsp; BEng & MEng,&nbsp; The University of Edinburgh
+#### 2020-Present &nbsp; PhD student,&nbsp; Zhejiang University & Westlake University
 ****
 ## Research Interest
 #### Graph Neural Networks; Adversarial Attack and Defence on Graph; Adversarial Training on Graph
 ****
 ## Publications
-#### NeurIPS 2022 - *Towards Reasonable Budget Allocation in Untargeted Graph Structure Attacks via Gradient Debias*
+#### NeurIPS 2022 - *Towards Reasonable Budget Allocation in Untargeted Graph Structure Attacks via Gradient Debias* [[Paper]](https://nips.cc/Conferences/2022/Schedule?showEvent=55252)[[Code]](https://github.com/Zihan-Liu-00/GraD--NeurIPS22)
 #### WSDM 2022 - *Surrogate Representation Learning with Isometric Mapping for Gray-box Graph Adversarial Attacks* [[Paper]](https://dl.acm.org/doi/10.1145/3488560.3498481)
-#### CIKM 2022 - *Are Gradients on Graph Structure Reliable in Gray-box Attacks?* [[Paper]](https://dl.acm.org/doi/10.1145/3511808.3557238)
+#### CIKM 2022 - *Are Gradients on Graph Structure Reliable in Gray-box Attacks?* [[Paper]](https://dl.acm.org/doi/10.1145/3511808.3557238)[[Code]](https://github.com/Zihan-Liu-00/AtkSE--CIKM22)
+#### WWW 2023 - *Improving (Dis)agreement Detection with Inductive Social Relation Information From Comment-Reply Interactions* (paper/code to be added)
+#### ECCV 2022 - *AutoMix: Unveiling the Power of Mixup for Stronger Classifiers* [[Paper]](https://arxiv.org/abs/2103.13027)[[Code]](https://github.com/Westlake-AI/openmixup)
+#### COLING 2022 - *Exploiting Sentiment and Common Sense for Zero-shot Stance Detection* [[Paper]](https://aclanthology.org/2022.coling-1.621)[[Code]](https://github.com/LuoXiaoHeics/StanceCS)
+#### COLING 2022 - *Mere Contrastive Learning for Cross-Domain Sentiment Analysis* [[Paper]](https://aclanthology.org/2022.coling-1.620)[[Code]](https://github.com/LuoXiaoHeics/COBE)
+#### IEEE MultiMedia - *Improved Speaker and Navigator for Vision-and-Language Navigation* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9351621)
+#### IJCNN 2022 - *Cluster-based Curriculum Learning for Vision-and-Language Navigation* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9892100)
+#### IJCNN 2021 - *Multi-Grounding Navigator for Self-Supervised Vision-and-Language Navigation* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9533628)
+#### ROBIO 2019 - *A Global Path Planning Algorithm for Robots Using Reinforcement Learning* [[Paper]](https://www.researchgate.net/profile/Zihan-Liu-2/publication/338595128_A_Global_Path_Planning_Algorithm_for_Robots_Using_Reinforcement_Learning/links/5e1ec06d299bf136303ad980/A-Global-Path-Planning-Algorithm-for-Robots-Using-Reinforcement-Learning.pdf)
+
 
 
 <!-- ## Welcome to GitHub Pages
